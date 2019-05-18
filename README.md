@@ -18,6 +18,8 @@ manual book (in Indonesian language): https://drive.google.com/open?id=1IKYlXZqw
 
 markers/official tourism logo of the provinces: https://drive.google.com/open?id=1WF-4eSBd6riZ6LAe2hmToZ-soFRsYRJN
 
+And here is the link of a screen-record video that shows how the application works: https://drive.google.com/file/d/1rx4SIuffZbCcAFpuTP9ORtuXZGXBEpnK/view?usp=sharing
+
 Scripts explanation:
 
 ARscenecontrol.cs is used to function the 'back' button in users' phones to go back to the main menu when the AR camera mode is used.
